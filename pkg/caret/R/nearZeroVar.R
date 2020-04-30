@@ -1,7 +1,7 @@
 #' Identification of near zero variance predictors
 #' 
 #' \code{nearZeroVar} diagnoses predictors that have one unique value (i.e. are
-#' zero variance predictors) or predictors that are have both of the following
+#' zero variance predictors) or predictors that have both of the following
 #' characteristics: they have very few unique values relative to the number of
 #' samples and the ratio of the frequency of the most common value to the
 #' frequency of the second most common value is large. \code{checkConditionalX}
